@@ -1,13 +1,13 @@
-package ru.vladleesi.pysample
+package dev.vladleesi.pysample
 
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.chaquo.python.Python
 import com.chaquo.python.android.AndroidPlatform
-import ru.vladleesi.pysample.databinding.ActivityMainBinding
-import ru.vladleesi.pysample.extensions.castOrNull
-import ru.vladleesi.pysample.logger.logButton
+import dev.vladleesi.databinding.ActivityMainBinding
+import dev.vladleesi.pysample.extensions.castOrNull
+import dev.vladleesi.pysample.logger.logButton
 
 class MainActivity : AppCompatActivity() {
 

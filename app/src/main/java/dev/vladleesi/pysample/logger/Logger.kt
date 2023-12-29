@@ -1,4 +1,4 @@
-package ru.vladleesi.pysample.logger
+package dev.vladleesi.pysample.logger
 
 import android.util.Log
 import android.widget.Button

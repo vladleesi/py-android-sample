@@ -1,4 +1,4 @@
-package ru.vladleesi.pysample
+package dev.vladleesi.pysample
 
 import org.junit.Test
 
